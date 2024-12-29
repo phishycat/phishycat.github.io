@@ -2,9 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Current Coursework/Classes: 
+-Gen Ed classes at CC
+-Security+ Prep
+-Network+ Prep
 
-[Link to another page](./another-page.html).
+Current Projects: 
+-[Pwnagotchi](./another-page.html).
+-
+
+
 
 There should be whitespace between paragraphs.
 
