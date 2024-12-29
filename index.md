@@ -12,7 +12,7 @@ Current Coursework/Classes:
 
 Current Projects: 
 
--[Pwnagotchi](./another-page.html).
+-[Pwnagotchi](./index2.md).
 -
 
 
