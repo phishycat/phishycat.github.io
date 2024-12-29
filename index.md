@@ -3,11 +3,15 @@ layout: default
 ---
 
 Current Coursework/Classes: 
+
 -Gen Ed classes at CC
+
 -Security+ Prep
+
 -Network+ Prep
 
 Current Projects: 
+
 -[Pwnagotchi](./another-page.html).
 -
 
