@@ -35,11 +35,11 @@ I also wanted to explore ethical hacking from a responsible perspective — usin
 
 ## Hardware & Setup
 
-- **Raspberry Pi Zero W** (with OTG USB hub)
+- **Raspberry Pi Zero W2** (with OTG USB hub)
 - **Waveshare 2.13” e-ink display**
 - **TP-Link TL-WN722N** Wi-Fi adapter (for packet injection)
-- **Power source:** 2000mAh LiPo battery + Adafruit PowerBoost 1000C
-- **Custom 3D printed enclosure** (optional, STL linked below)
+- **Power source:** Usb Cable
+- **Custom 3D printed enclosure**
 
 ### Software:
 
