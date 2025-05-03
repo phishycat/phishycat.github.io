@@ -4,8 +4,6 @@ layout: default
 
 Current Coursework/Classes: 
 
--Gen Ed classes at CC
-
 -Security+ Prep
 
 -Network+ Prep
@@ -13,38 +11,23 @@ Current Coursework/Classes:
 Current Projects: 
 
 -[Pwnagotchi](index2.md).
--
+Offensive Network Intrusion using Bettercap, Reinforcement Learning, Packet Sniffing via Python and password recovery through Hashcat.  
+
 
 # SoC Home Lab: Defense
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Simulation using Azure, Microsoft Defender, Microsoft Sentinel, MISP Threat Intelligence. 
 
 # Network Attached Storage Server
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Hosting Docker containers for Kali Linux, Dockerfiles, Docker Scout and vulnerable machine instances.     
 
 # Web Vulnerability Management
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Web application vulnerability detection, remediation and mitigation using OWASP Zed Attack Proxy.  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 # Security Awareness Training Newsletter
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Dissection of phishing attempts, user tips and tricks around passwords and safe digital citizenship.  
 
