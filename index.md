@@ -23,12 +23,12 @@ Simulation using Azure, Microsoft Defender, Microsoft Sentinel, MISP Threat Inte
 
 Hosting Docker containers for Kali Linux, Dockerfiles, Docker Scout and vulnerable machine instances.     
 
-# Web Vulnerability Management
+[Web Vulnerability Management](index5.md)
 
 Web application vulnerability detection, remediation and mitigation using OWASP Zed Attack Proxy.  
 
 
-# Security Awareness Training Newsletter
+[Security Awareness Training Newsletter](index6.md)
 
 Dissection of phishing attempts, user tips and tricks around passwords and safe digital citizenship.  
 
