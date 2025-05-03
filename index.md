@@ -14,7 +14,7 @@ Current Projects:
 Offensive Network Intrusion using Bettercap, Reinforcement Learning, Packet Sniffing via Python and password recovery through Hashcat.  
 
 
-# SoC Home Lab: Defense
+-[SoC Home Lab: Defense] (index3.md).
 
 Simulation using Azure, Microsoft Defender, Microsoft Sentinel, MISP Threat Intelligence. 
 
