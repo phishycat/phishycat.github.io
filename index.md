@@ -10,7 +10,7 @@ Current Coursework/Classes:
 
 Current Projects: 
 
--[Pwnagotchi](index2.md).
+-[Pwnagotchi](pwnagotchi.md).
 
 Offensive Network Intrusion using Bettercap, Reinforcement Learning, Packet Sniffing via Python and password recovery through Hashcat.  
 
